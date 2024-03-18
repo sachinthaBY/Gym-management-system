@@ -8,3 +8,10 @@ A gym management system using Java.
 - Sort data
 - View GUI table
 - Exit option
+
+## GUI
+Start the graphical user interface (GUI) based on JavaFX from the console.
+
+- Search members by name
+- Search members by membership number
+- Search all option
